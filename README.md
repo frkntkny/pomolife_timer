@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# flutter_app
 
-A new Flutter application.
-=======
 # Pomolife Timer
 
 A new Flutter application made by Furkan Tekinay.
