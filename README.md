@@ -6,6 +6,7 @@ A new Flutter application made by Furkan Tekinay.
 ## Getting Started
 
 Ilk Projemdi uzun surmesine ragmen bitirdim ve mutluyum.
+Ayni zamanda git ogreniyorum.
 
 This project is a starting point for a Flutter application.
 
