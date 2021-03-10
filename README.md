@@ -2,9 +2,10 @@
 # Pomolife Timer
 
 A new Flutter application made by Furkan Tekinay.
->>>>>>> 4bc3b93 (Initial commit)
 
 ## Getting Started
+
+Ilk Projemdi uzun surmesine ragmen bitirdim ve mutluyum.
 
 This project is a starting point for a Flutter application.
 
